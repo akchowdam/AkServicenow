@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 11:47:38</sys_created_on>
+        <sys_id>1b02e1bcdba110108bb058b3ca961992</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_229201_akservice_mart.x_229201_akservice.mart_user</sys_name>
+        <sys_package display_value="Akservicenow" source="x_229201_akservice">6f506df8dba110108bb058b3ca9619bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Akservicenow">6f506df8dba110108bb058b3ca9619bf</sys_scope>
+        <sys_security_acl display_value="x_229201_akservice_mart">d702e1bcdba110108bb058b3ca96198e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1b02e1bcdba110108bb058b3ca961992</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-19 11:47:38</sys_updated_on>
+        <sys_user_role display_value="x_229201_akservice.mart_user" name="x_229201_akservice.mart_user">4702e1f8dba110108bb058b3ca96196a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
